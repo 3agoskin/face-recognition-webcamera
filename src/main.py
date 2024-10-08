@@ -5,7 +5,6 @@ from picamera2 import Picamera2, Preview
 import pyzbar
 import cv2 as cv
 import numpy as np
-import pyzbar.pyzbar
 import tensorflow as tf
 import pickle
 from keras_facenet import FaceNet
